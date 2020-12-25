@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-# 👋 Hi, I'm Michae!
-
 I'm a dedicated web and mobile developer, mainly using React, React Native and TypeScript for this. My main focus is Front-End developemnt, designing good looking and intuitive UI's and devliering an amazing UX.
 
 ## Languages and Technologies
@@ -38,17 +36,10 @@ I'm a dedicated web and mobile developer, mainly using React, React Native and T
 - Zotto Online Ordering (Group Project) - Front-End Developer
   
   
- ## 🌱 I'm currently Learning
+ ## 🌱d I'm currently Learning
 
 - PHP
 - React-Native
 - GraphQL
 
-<!-- ## ⚡GitHub Stats
-<!-- Stats -->
-<!-- Credit to https://github.com/anuraghazra/github-readme-stats -->
-<div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=mbruty&count_private=true&show_icons=true&theme=react" />
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbruty&langs_count=5&theme=react" />
-</div>
--->
+

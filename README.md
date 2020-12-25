@@ -35,6 +35,7 @@ I'm a dedicated web and mobile developer, mainly using React, React Native. My m
 ## 🔭 I'm currently working on
 
 - Zotto Online Ordering (Group Project) - Full-Stack Developer
+
   
   
  ## 🌱d I'm currently Learning
@@ -42,5 +43,6 @@ I'm a dedicated web and mobile developer, mainly using React, React Native. My m
 - PHP
 - React-Native
 - GraphQL
+- Vue Js
 
 

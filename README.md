@@ -38,6 +38,7 @@ I'm a dedicated web and mobile developer, mainly using React, React Native. My m
 ## 🔭 I'm currently working on
 
 - Zotto Online Ordering (Group Project) - Full-Stack Developer
+- Teno (Solo Project) - MERN stack
 
   
   

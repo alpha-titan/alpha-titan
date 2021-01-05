@@ -26,6 +26,7 @@ I'm a dedicated web and mobile developer, mainly using React, React Native. My m
 	<img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" width="50" height="50"/>
 	<img src="https://verekia.com/_pages/css3/introduction-css3/img/css3-logo.png" width="50" height="50"/>
 	<img src="https://pluspng.com/img-png/javascript-vector-png-javascript-vector-logo-600.png" width="50" height="50"/>
+	<img src="https://davidwalsh.name/demo/graphql-intro/graphql.png" width="100" height="50"/>	
 	<img src="https://freepngimg.com/thumb/python_logo/7-2-python-logo-free-download-png.png" width="50" height="50" />
 	<img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" width="100" height="50" />
 	<img src="https://cdn.worldvectorlogo.com/logos/mysql.svg" width="50" height="50" />

@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I'm a dedicated web and mobile developer, mainly using React, React Native. My main focus is Back-End developement, designing good looking and Scalable application and devlivering an amazing production ready product.
+I'm a dedicated web and mobile developer, mainly using React, React Native. My main focus is on Back-End developement, designing good looking and Scalable application, and devlivering an amazing production ready product.
 
 ## Languages and Technologies
 
@@ -47,6 +47,6 @@ I'm a dedicated web and mobile developer, mainly using React, React Native. My m
 
 - PHP
 - GraphQL
-- Vue Js
+- Vue JS
 
 

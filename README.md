@@ -45,7 +45,6 @@ I'm a dedicated web and mobile developer, mainly using React, React Native. My m
   
  ## 🌱d I'm currently Learning
 
-- GraphQL
 - Rust
 
 

@@ -39,8 +39,7 @@ I'm a dedicated web and mobile developer, mainly using React, React Native. My m
 
 ## 🔭 I'm currently working on
 
-- Safwa (Softlets Group) - (React, Next, Node, Express, gRPC, GraphQL, Docker, MySql)
-- Teno (Solo Project) - MERN stack
+- Teno (Solo Project) -React Native and Node
 
   
   
